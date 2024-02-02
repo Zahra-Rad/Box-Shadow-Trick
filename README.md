@@ -1,6 +1,5 @@
 # Box-Shadow-Trick
-![view top section](![Screenshot (37)](https://github.com/Zahra-Rad/Box-Shadow-Trick/assets/118894293/fcb06553-43c9-4990-b53f-c348e3f580b7)
-)
+![view top section](https://github.com/Zahra-Rad/Box-Shadow-Trick/assets/118894293/fcb06553-43c9-4990-b53f-c348e3f580b7)
 
 - 📎 [Demo Project](https://zahra-rad.github.io/Box-Shadow-Trick/)
 
